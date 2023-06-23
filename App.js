@@ -134,6 +134,7 @@ export default function App() {
                       alignSelf: "center",
                       paddingLeft: 20,
                       justifyContent: "center",
+
                       marginTop: 40,
                     }}
                   >
